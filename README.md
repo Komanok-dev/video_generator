@@ -1,8 +1,8 @@
 # Video generator from images
 
-## Описание
+## Description
 
-Это API для управления тендерами и предложениями, реализованное с использованием FastAPI и PostgreSQL. Оно включает в себя функционал для создания, редактирования и просмотра тендеров и предложений, а также работы с отзывами.
+This project gererates video file from jpeg frames
 
 ## Requirements
 
