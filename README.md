@@ -28,8 +28,9 @@ This project gererates video file from jpeg frames
 3. Set enviroment PATH to this folder
 
 ### 3. Run:
-1. Open terminal 
-2. Run command:
+1. Set path to images folder in DATA_DIR variable
+2. Open terminal 
+3. Run command:
 
    ```python main.py
    ```
